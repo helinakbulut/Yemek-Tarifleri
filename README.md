@@ -25,6 +25,7 @@ Mimari: Nesne Yönelimli Programlama (OOP)
 Görsel Yönetimi: Project Resources (Local Storage) 
 
 🏗 Proje Yapısı ve NYP Prensipleri
+
 Bu projede akademik standartlara uygun olarak şu NYP yapıları kullanılmıştır:
 
 Kalıtım (Inheritance): Tüm pencereler Form sınıfından miras alınmıştır.
